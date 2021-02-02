@@ -9,3 +9,7 @@ was under development.
 You're in a new branch now, feel free to experiment here
 
 This line fixes the bug. 
+
+This line is an edit that happened while issue2_fixBug
+was under development. 
+
