@@ -7,3 +7,5 @@ This line is an edit that happened while issue1_myAwesomeIssue
 was under development. 
 
 You're in a new branch now, feel free to experiment here
+
+This line fixes the bug. 
